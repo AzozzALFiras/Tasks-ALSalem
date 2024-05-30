@@ -1,0 +1,2 @@
+REACT_APP_API_URL=http://localhost:8000/api/v1
+REACT_APP_TOKEN=9a427cc86da49dca6cc372a4d2992c91bc943a0f
